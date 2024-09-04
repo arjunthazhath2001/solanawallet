@@ -24,7 +24,7 @@ function User() {
             <h1 className="text-6xl font-black text-black dark:text-white">
               SOL<span className="text-violet-700">PAL</span>
             </h1>
-            <p className="text-black dark:text-white font-sans">Most trusted Solana Wallet</p>
+            <p className="text-black dark:text-white font-sans">Solana Wallet by Arjun</p>
             <div className="w-[450px] h-72 flex mb-10 mt-2 p-10 justify-center">
               <Tabs defaultValue="connect">
                 <TabsList>
